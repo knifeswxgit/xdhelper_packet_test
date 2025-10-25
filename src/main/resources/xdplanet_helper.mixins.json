@@ -1,10 +1,8 @@
 {
 	"required": true,
-	"package": "swx.xdplanet_helper.mixin",
+	"package": "ru.knifeswx.xdplanethelper.mixin",
 	"compatibilityLevel": "JAVA_21",
-	"mixins": [
-		"ExampleMixin"
-	],
+	"mixins": [],
 	"injectors": {
 		"defaultRequire": 1
 	},

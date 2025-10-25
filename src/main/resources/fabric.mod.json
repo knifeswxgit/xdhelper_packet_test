@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"swx.xdplanet_helper.XDPlanet_helper"
+			"ru.knifeswx.xdplanethelper.XDPlanetHelper"
 		],
 		"client": [
-			"swx.xdplanet_helper.XDPlanet_helperClient"
+			"ru.knifeswx.xdplanethelper.XDPlanetHelperClient"
 		]
 	},
 	"mixins": [

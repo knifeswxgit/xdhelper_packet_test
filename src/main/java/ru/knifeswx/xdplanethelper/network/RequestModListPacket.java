@@ -1,4 +1,4 @@
-package swx.xdplanet_helper.network;
+package ru.knifeswx.xdplanethelper.network;
 
 import net.fabricmc.fabric.api.networking.v1.PayloadTypeRegistry;
 import net.minecraft.network.RegistryByteBuf;
